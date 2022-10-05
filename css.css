@@ -3,6 +3,7 @@ body {
   text-align: center;
   color:#fff;
   padding-top:10em;
+  -webkit-text-stroke: 4px black; /* width and color */
 }
 
 * { color:#fff; text-decoration: none; } 
