@@ -3,7 +3,8 @@ body {
   text-align: center;
   color:#fff;
   padding-top:10em;
-  -webkit-text-stroke: 4px black; /* width and color */
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: black;
 }
 
 * { color:#fff; text-decoration: none; } 
